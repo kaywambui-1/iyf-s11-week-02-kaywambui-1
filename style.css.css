@@ -1,0 +1,20 @@
+
+    body{
+        background-color: rgb(8, 92, 103);
+    }
+    h1{
+        color:white
+    }
+    p{
+        background-color:gray; 
+        color:white
+    }
+    #p1{
+
+    }
+.odd{
+    color:brown
+}
+.even{
+    color:darkgreen
+}
